@@ -1,0 +1,18 @@
+{
+	"name": "Inventory Utilities",
+	"description": "",
+	"changeNote": "[h3]Version 0.1.0[/h3]\n[list]\n[*]Added a textbox and button to the crafting panel that enables you to attempt to pull the ingredients for the selected recipe from nearby inventories.\n[/list]",
+	"author": "Technoplex",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 1,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamTestLivePublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "InventoryUtilities",
+	"revisionNumber": 0,
+	"snapshotId": 0,
+	"fileSize": -1056138007
+}
